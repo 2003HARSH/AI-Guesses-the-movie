@@ -23,8 +23,8 @@ To run the application, you'll need to follow these steps:
 
 1. **Clone the Repository**
    ```bash
-   git clone [https://github.com/2003HARSH/AI-Guesses-the-movie.git]
-   cd [AI-Guesses-the-movie]
+   git clone https://github.com/2003HARSH/AI-Guesses-the-movie.git
+   cd AI-Guesses-the-movie
    ```
 
 2. **Install Dependencies**
