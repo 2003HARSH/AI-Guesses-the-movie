@@ -1,6 +1,5 @@
 import streamlit as st
 from worker_file import get_qa_chain
-import os
 
 GOOGLEPALM_API_KEY=st.secrets['auth_token']
 
