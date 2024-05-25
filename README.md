@@ -2,6 +2,8 @@
 
 This project is a Retrieval-Augmented Generation (RAG) application that can guess a movie's name based on a given plot summary. The application is built using LangChain, Google Palm LLM, CSVLoader, RetrievalQA, Google Palm Embeddings, and FAISS, and it is deployed on Streamlit for a user-friendly interface.
 
+![](https://github.com/2003HARSH/AI-Guesses-the-movie/blob/main/docs/static/movie_guess.png)
+
 ## Features
 
 - **Plot-based Movie Guessing**: Provide a plot summary, and the application will guess the corresponding movie title.
