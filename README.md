@@ -64,3 +64,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 
 Thanks to the developers of LangChain, Google Palm, FAISS, and Streamlit for providing the tools and libraries that made this project possible.
+
+
